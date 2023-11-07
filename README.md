@@ -11,5 +11,22 @@ Possiamo prendere come esempio le istruzioni di Ikea per montare una cassettiera
    - Le variabili sono come memorie che possono ricordare qualsiasi cosa noi vogliamo, possono memorizzare numeri, lettere, parole, frasi. Servono a far si che il computer capisca dove prendere le informazioni che vogliamo passargli.
 
 3. undefined e null sono la stessa cosa?
-   - Mentre l'undefined é un valore richiamato ma non definito, un valore null é un valore null.
-   
+   - Mentre l'undefined é un valore richiamato ma non definito o una variabile che non ha valore, una variabile null ha come valore "null".
+   - Null
+     
+```javascript
+let myVar = null;
+console.log(myVar); // Stampa: null
+```
+
+   - Undefined
+
+```javascript
+let myVar;
+console.log(myVar); // Stampa: undefined
+```
+
+```javascript
+let myVar = undefined;
+console.log(myVar); // Stampa: undefined
+```
