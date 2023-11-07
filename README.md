@@ -12,14 +12,14 @@ Possiamo prendere come esempio le istruzioni di Ikea per montare una cassettiera
 
 3. undefined e null sono la stessa cosa?
    - Mentre l'undefined é un valore richiamato ma non definito o una variabile che non ha valore, una variabile null ha come valore "null".
-   - Null
+- Null
      
 ```javascript
 let myVar = null;
 console.log(myVar); // Stampa: null
 ```
 
-   - Undefined
+- Undefined
 
 ```javascript
 let myVar;
