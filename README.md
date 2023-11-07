@@ -30,5 +30,3 @@ console.log(myVar); // Stampa: undefined
 let myVar = undefined;
 console.log(myVar); // Stampa: undefined
 ```
-
-![Registrazione-2023-11-07-124712](https://github.com/CodeKaito/Epicode-task-5/assets/57111980/1783dd31-e270-44c0-8b2e-615102ce67a1)
